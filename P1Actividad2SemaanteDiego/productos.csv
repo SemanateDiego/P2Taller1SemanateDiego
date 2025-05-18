@@ -1,0 +1,5 @@
+Código,NombreProducto,Precio,CategoriaID,CategoriaNombre
+1234,asdf,12.0,14,diego
+14,aaa,12.0,-5,diego
+CodigoInvalido,NombreProductoInvalido,0.01,1,NombreCategoriaInvalido
+14a,wqe,14.0,14,asd
